@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:tag="a" android:id="@+id/listMenu">
+    <item android:id="@+id/check"
+        android:title="Check off list" />
+    <item android:id="@+id/delete"
+        android:title="Delete list" />
+    <item android:id="@+id/expandList"
+        android:title="Expand List" />
+</menu>
